@@ -4,7 +4,7 @@ A review research paper to develop governance accounting within the Ocean Accoun
 
 ## Research Focus
 
-This paper analyses the potential development of a standardised framework of governance accounts in the ocean accounting system.  integration of Ocean Accounts methodology with the BBNJ Agreement's Clearing-House Mechanism (CHM). The research examines technical synergies between existing Ocean Accounts frameworks and CHM implementation requirements:
+This paper analyses the potential development of a standardised framework of governance accounts in the ocean accounting system. The research examines **tbd**:
 
 - **Spatial Architecture**: Three-dimensional geographic reference systems for consistent BBNJ reporting
 - **Resource Tracking**: Flow accounting for marine genetic resource utilization chains
